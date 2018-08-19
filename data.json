@@ -1,0 +1,37 @@
+{
+	"basicdeatils":[{
+		"iamge": "image.jpg",
+		"name": "hema",
+		"emai": "hemabhav@gmail.com",
+		"phone":"123456789",
+		"address": "somewhere on earth",
+
+	}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+"skills":[
+{
+	"name":"operating systems",
+	"value":"windows,Linux,MAC"
+},
+{  
+	"name":"programming languages"
+	"value":"c,c++,java python"
+}
+]
+
+
+
